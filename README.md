@@ -94,12 +94,9 @@ The app will open at `http://localhost:8501`.
 
 ## 📸 Screenshots
 
-![Live Plant Overview](screenshots/dashboard.png)
-![Geospatial Safety Heatmap](screenshots/heatmap.png)
-![Compound Risk Detector](screenshots/compound_risk.png)
-
-*(Add your screenshots to a `screenshots/` folder in the repo and update the filenames above.)*
-
+<img width="1600" height="950" alt="01-live-plant-overview" src="https://github.com/user-attachments/assets/3ea35acc-6893-4071-ace5-ef14c39cda6a" />
+<img width="1600" height="900" alt="02-compound-risk-detector" src="https://github.com/user-attachments/assets/3b5a0e38-abc0-41ed-8817-d9646d7b0614" />
+<img width="1600" height="950" alt="03-digital-permit-intelligence" src="https://github.com/user-attachments/assets/cac34813-6ce3-4d02-8ced-6dc4abd6e788" />
 ---
 
 ## 🧭 Demo Scenario
