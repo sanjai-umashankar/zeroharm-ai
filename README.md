@@ -97,6 +97,12 @@ The app will open at `http://localhost:8501`.
 <img width="1600" height="950" alt="01-live-plant-overview" src="https://github.com/user-attachments/assets/3ea35acc-6893-4071-ace5-ef14c39cda6a" />
 <img width="1600" height="900" alt="02-compound-risk-detector" src="https://github.com/user-attachments/assets/3b5a0e38-abc0-41ed-8817-d9646d7b0614" />
 <img width="1600" height="950" alt="03-digital-permit-intelligence" src="https://github.com/user-attachments/assets/cac34813-6ce3-4d02-8ced-6dc4abd6e788" />
+<img width="1902" height="1037" alt="image" src="https://github.com/user-attachments/assets/285f7ad2-1df8-4315-905f-24a3fe9b96d1" />
+<img width="1896" height="1031" alt="image" src="https://github.com/user-attachments/assets/a317fba3-82cd-4e16-9863-133024bc4ee1" />
+<img width="1911" height="1018" alt="image" src="https://github.com/user-attachments/assets/05659aae-8861-487e-a922-0e170f2b5804" />
+<img width="1895" height="1020" alt="image" src="https://github.com/user-attachments/assets/599a279d-d52a-4780-8b63-67b67d9b2c53" />
+
+
 ---
 
 ## 🧭 Demo Scenario
